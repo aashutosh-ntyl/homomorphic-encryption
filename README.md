@@ -10,10 +10,10 @@ This is sometimes a desirable feature in modern communication system architectur
 Homomorphic encryption schemes are malleable by design. This enables their use in cloud computing environment for ensuring the confidentiality of processed data. In addition, the Homomorphic property of various cryptosystems can be used to create many other secure systems, for example secure voting systems,collision-resistant hash functions, private information retrieval schemes, and many more.
 
 ## Applications
-- **Encrypted database querying: ** 
+- **Encrypted database querying :** 
   Typical database encryption leaves the database encrypted at rest, but when queries are performed the data must be decrypted in order to be parsed. Homomorphic encryption schemes have been devised such that database queries can run against ciphertext data directly.It must be noted that in this paper, the authors have accepted that they have used simple and non secure homomorphic scheme and still it takes a huge toll on the performance. For e.g. a 16 bit multiplication takes approximately 24 minutes.
   
-- **Bitcoin split-key vanity mining: **
+- **Bitcoin split-key vanity mining :**
   Bitcoin addresses are hashes of public keys from ECDSA key pairs. A vanity address is an address generated from parameters such that the resultant hash contains a human-readable string (e.g., 1BoatSLRHtKNngkdXEeobR76b53LETtpyT). Given that ECDSA key pairs have homomorphic properties for addition and multiplication, one can outsource the generation of a vanity address without having the generator know the full private key for this address.
 
 # ER Diagram
