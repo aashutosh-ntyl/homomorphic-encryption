@@ -46,3 +46,22 @@ Homomorphic encryption schemes are malleable by design. This enables their us
 ### Decryption: 
 1. Compute the message as m = L(cΛ mod n2).μ mod n. 
 
+# Screenshots
+
+### Login: 
+![Login](https://github.com/aashutosh-ntyl/homomorphic-encryption/blob/master/login.jpg)
+
+### Main menu: 
+![Main menu](https://github.com/aashutosh-ntyl/homomorphic-encryption/blob/master/menu.jpg)
+
+### Creating new account: 
+![Creating new account](https://github.com/aashutosh-ntyl/homomorphic-encryption/blob/master/new%20account.jpg)
+
+### Fund deposit: 
+![deposit](https://github.com/aashutosh-ntyl/homomorphic-encryption/blob/master/deposit.jpg)
+
+### Fund transfer: 
+![Fund transfer](https://github.com/aashutosh-ntyl/homomorphic-encryption/blob/master/transfer.jpg)
+
+### Checking balance and transactions: 
+![Balance](https://github.com/aashutosh-ntyl/homomorphic-encryption/blob/master/balance.jpg)
