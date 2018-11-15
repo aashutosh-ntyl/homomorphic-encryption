@@ -73,3 +73,6 @@ Homomorphic encryption schemes are malleable by design. This enables their us
 
 ### Checking balance and transactions: 
 ![Balance](https://github.com/aashutosh-ntyl/homomorphic-encryption/blob/master/balance.jpg)
+
+# Future Scope
+Homo-morphic encryption will be an useful technology in future as it allows an user to work on cipher text instead of decrypted text which is far more secure than other encryption.
